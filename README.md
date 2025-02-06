@@ -1,1 +1,1 @@
-# pest-detection-using-deep-learning
+# potato-leaf-desease-detection-using-deep-learning
